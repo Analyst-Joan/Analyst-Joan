@@ -16,6 +16,7 @@
 - 🤖 Data and Artificial Intellignce (AI)
 - 🛠️ SQL Server Developer
 - ⚛️ Power Automate (Power platforms)
+- 🔗 n8n
 - 💬 Talk to me about data analytics and health research
 
 ## 👀 What am I looking for?
