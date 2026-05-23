@@ -21,12 +21,13 @@
 
 ## 👀 What am I looking for?
 - 👯 Collaboration with other Data Analysts and other Big data professionals on data analytics projects
-- :briefcase: Job opportunities - Junior Data Analyst or Internship roles.
+- :briefcase: Job opportunities - Data Analyst, BI Analyst, Customer insights Analyst, CX Analyst,etc.
 
 ## Tools I Use For Data Analysis:
-- Microsoft Excel 
-- Power BI
+- Microsoft Excel (Power Pivot)
+- Power BI (DAX, Power Query,)
 - SQL (Structured Query Language)
+- SSRS
 
 ## 📫 You can connect with me on: 
 [LinkedIn](https://linkedin.com/in/chukwuemekajoanc/) or
